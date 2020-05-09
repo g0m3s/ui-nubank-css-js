@@ -207,7 +207,7 @@ input:checked + .painelBranco {
     height: 85px;
     width: 100vw;
     position: absolute;
-    /* bottom: 10px; */
+    bottom: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
