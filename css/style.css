@@ -96,13 +96,13 @@ input:checked + .painelBranco {
     align-items: center;
     justify-content: center;
     margin-top: 80px; 
-    transition: 1s linear;
+    transition: .7s linear;
 
 }
 
 .painel{
 
-    width: 90vw;
+    width: 88vw;
     background-color: white;
     height: 40vh;
     border-radius: 3px;
@@ -154,7 +154,7 @@ input:checked + .painelBranco {
 
 .valorFatura p {
 
-    font-size: 19pt;
+    font-size: 22pt;
     color: #00bcca;
 
 }
@@ -204,14 +204,14 @@ input:checked + .painelBranco {
 
 .opcoesScroll{
 
-    height: 13vh;
+    height: 85px;
     width: 100vw;
     position: absolute;
-    bottom: 75px;
+    /* bottom: 10px; */
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: 1s linear;
+    transition: .7s linear;
     
 }
 
@@ -226,8 +226,8 @@ input:checked + .painelBranco {
 
 .opcoes{
 
-    height: 10vh;
-    width: 22vw;
+    height: 82px;
+    width: 82px;
     background-color: #9140a9;
     border-radius: 4px;
     margin: 0 3px;
@@ -290,7 +290,7 @@ input:checked + .painelBranco {
 .op2{
 
     border-bottom: .5px solid rgba(255, 255, 255, 0.37);
-    height: 40px;
+    height: 50px;
     width: 90vw;
     display: flex;
     justify-content: space-between;
